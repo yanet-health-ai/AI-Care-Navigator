@@ -1,1 +1,3 @@
-# AI-Care-Navigator
+# AI Care Navigator
+
+## An AI-Assisted Workflow for Improving Healthcare Communication
