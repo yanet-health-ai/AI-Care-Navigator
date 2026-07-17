@@ -169,5 +169,19 @@ Healthcare
 Patient education
 Care coordination
 Responsible AI exploration
+## Project Status
+
+This project represents a documented AI workflow exploration focused on responsible healthcare AI applications.
+
+Future development may include secure information organization tools, multilingual support, and healthcare communication workflows.
+
+---
+
+## Contact
+
+Yanet Poey Lozano, BSN, RN
+
+GitHub:
+https://github.com/yanet-health-ai
 
 Her goal is to help develop AI solutions that improve healthcare communication while keeping empathy, safety, and human judgment at the center.
